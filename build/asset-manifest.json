@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SalesAssessment/static/css/main.0e936a96.css",
+    "main.js": "/SalesAssessment/static/js/main.0a4471f2.js",
+    "static/js/453.16e42c43.chunk.js": "/SalesAssessment/static/js/453.16e42c43.chunk.js",
+    "static/media/stackline_logo.svg": "/SalesAssessment/static/media/stackline_logo.99033cd71a76f222d55b621506bc36b3.svg",
+    "index.html": "/SalesAssessment/index.html",
+    "main.0e936a96.css.map": "/SalesAssessment/static/css/main.0e936a96.css.map",
+    "main.0a4471f2.js.map": "/SalesAssessment/static/js/main.0a4471f2.js.map",
+    "453.16e42c43.chunk.js.map": "/SalesAssessment/static/js/453.16e42c43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e936a96.css",
+    "static/js/main.0a4471f2.js"
+  ]
+}
