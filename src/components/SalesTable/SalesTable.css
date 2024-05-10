@@ -1,0 +1,18 @@
+.tableCard {
+    margin: 20px;
+}
+.tableCard {
+    border-color: #fff !important;
+    max-height: 50vh;
+    overflow: scroll;
+}
+
+.tableHead {
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.tableBody {
+    cursor: pointer;
+    font-size: 12px;
+}
